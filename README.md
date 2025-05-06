@@ -2,7 +2,7 @@
 
 ### Model
 - Framework
-  ![](https://github.com/gracygyx/HIGSyn/blob/main/Figures/Framework.jpg)
+  ![](https://github.com/gracygyx/SSI-Mamba/blob/main/Figures/Framework.jpg)
 
 ### Environment
 
@@ -29,4 +29,4 @@ python SSI_Mamba_GDSC2_main.py
   ![](https://github.com/gracygyx/SSI-Mamba/blob/main/Figures/DrugCombDB.jpg)
 
 - GDSC2 dataset
-  ![](https://github.com/gracygyx/SSI-Mamba/blob/main/Figures/GDSC2_result.jpg)
+  ![](https://github.com/gracygyx/SSI-Mamba/blob/main/Figures/GDSC2.jpg)
